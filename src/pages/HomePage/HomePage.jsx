@@ -8,18 +8,18 @@ import ExploreOurProducts from "../../Components/ExploreOurProducts/ExploreOurPr
 import NewArrival from "../../Components/NewArrival/NewArrival";
 
 const HomePage = () => {
-    return (
-        <div>
-            <Banner/>
-            <AllProducts/>
-            <BrowserCategory/>
-            <BestSellingProducts/>
-            <BannerProduct/>
-            <ExploreOurProducts/>
-            <NewArrival/>
-            <DashDealsPros/>
-        </div>
-    );
+  return (
+    <div>
+      <Banner />
+      <AllProducts />
+      <BrowserCategory />
+      <BestSellingProducts />
+      <BannerProduct />
+      <ExploreOurProducts />
+      <NewArrival />
+      <DashDealsPros />
+    </div>
+  );
 };
 
 export default HomePage;

@@ -1,10 +1,10 @@
-import axios from 'axios';
+import axios from "axios";
 
 const axiosPublic = axios.create({
-    baseURL: import.meta.env.VITE_backendUrl,
-})
+  baseURL: import.meta.env.VITE_backendUrl,
+});
 const useAxiosPublic = () => {
-    return axiosPublic;
+  return axiosPublic;
 };
 
 export default useAxiosPublic;
