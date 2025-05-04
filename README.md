@@ -62,16 +62,15 @@ E-Commerce/
 └── vite.config.js          # vite configuration or setup
 ```
 
-
 ## 🚀 Getting Started
 
 To get a local copy up and running follow these simple steps:
 
-1. Clone the repository: ```git clone https://github.com/iamkhalidhussein/E-Commerce.git```
-2. Navigate into the directory: ```cd your-repository```
+1. Clone the repository: `git clone https://github.com/iamkhalidhussein/E-Commerce.git`
+2. Navigate into the directory: `cd your-repository`
 3. Install dependencies: `npm install`
-4. Start the development server: ```npm start```
-5. Open your browser and go to: ```http://localhost:4000```
+4. Start the development server: `npm start`
+5. Open your browser and go to: `http://localhost:4000`
 
 ## 🧩 Usage
 
@@ -80,26 +79,37 @@ To get a local copy up and running follow these simple steps:
 - Register or login to manage your account and view order history.
 
 ## 🔐 Environment Variables
+
 ```
 VITE_apiKey = your_api_key
 ```
+
 VITE_authDomain = your_firebase_auth_domain
+
 ```
 VITE_projectId = your_firebase_proeject_id
 ```
+
 VITE_storageBucket = your_firebase_storage-bucket
+
 ```
 VITE_messagingSenderId = your_firebase_senderid
 ```
+
 VITE_appId = your_firebase_app-id
+
 ```
 VITE_measurementId = your_firebase_measurementid
 ```
+
 VITE_backendUrl = http://localhost:4000
+
 ```
 VITE_Stripe_PK = your_stripe_public_key
 ```
+
 VITE_Stripe_SK = your_stripe_secret_key
+
 ```
 
 ## 🔗 Backend Repository
@@ -110,3 +120,4 @@ The backend server code for this project can be found at: [https://github.com/ia
 
 Contributions are welcome! Please fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
+```
