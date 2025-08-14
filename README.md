@@ -1,3 +1,10 @@
+# This repository has moved!
+
+This project is now maintained in a new repository: [New Repository Name](https://github.com/iamkhalidhussein/dashdeals)
+
+Please visit the new repository for the latest updates.
+
+
 # DashDeals
 
 A FullStack e-commerce website built with MongoDB, Express.js, React.js, Node.js
