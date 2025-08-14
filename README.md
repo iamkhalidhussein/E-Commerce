@@ -1,6 +1,6 @@
 # This repository has moved!
 
-This project is now maintained in a new repository: [New Repository Name](https://github.com/iamkhalidhussein/dashdeals)
+This project is now maintained in a new repository: [https://github.com/iamkhalidhussein/dashdeals](https://github.com/iamkhalidhussein/dashdeals)
 
 Please visit the new repository for the latest updates.
 
